@@ -1,3 +1,0 @@
-* Handles error conditions poorly.
-* Unreliable at reencoding VBR files.
-* Cannot upsample
